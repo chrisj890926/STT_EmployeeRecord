@@ -1,0 +1,2 @@
+employee_id,timestamp,project,summary
+EMP123,2025-02-11T10:00:00Z,AI研發計畫,今天主要負責AI研發計畫，完成了模型訓練與部署測試，但遇到的問題是GPU記憶體不足。明天計劃進行LLM退理速度嘗試，用量化技術減少記憶體的使用。
